@@ -28,3 +28,8 @@
 *.app
 /RigidDeform/Debug
 /RigidDeform/Release
+/.vs/RigidDeform/v15
+/RigidDeform/x64/Debug
+/x64/Debug
+/x64/Release
+/RigidDeform/x64/Release

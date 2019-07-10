@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RigidDeform", "RigidDeform\RigidDeform.vcxproj", "{53F53DC6-C77C-48D7-B673-F13076AA58B9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImplementingARAP09", "ImplementingARAP09\ImplementingARAP09.vcxproj", "{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{53F53DC6-C77C-48D7-B673-F13076AA58B9}.Release|x64.Build.0 = Release|x64
 		{53F53DC6-C77C-48D7-B673-F13076AA58B9}.Release|x86.ActiveCfg = Release|Win32
 		{53F53DC6-C77C-48D7-B673-F13076AA58B9}.Release|x86.Build.0 = Release|Win32
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Debug|x64.ActiveCfg = Debug|x64
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Debug|x64.Build.0 = Debug|x64
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Debug|x86.ActiveCfg = Debug|Win32
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Debug|x86.Build.0 = Debug|Win32
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Release|x64.ActiveCfg = Release|x64
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Release|x64.Build.0 = Release|x64
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Release|x86.ActiveCfg = Release|Win32
+		{777AA294-AD91-4B3F-92C3-EB1C3375CA4A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
